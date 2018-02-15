@@ -1,0 +1,22 @@
+BEAUTY AND THE BEAST in Screen 1 at 10:00 total seats sold: 0
+BEAUTY AND THE BEAST in Screen 1 at 12:30 total seats sold: 0
+KONG- SKULL ISLAND in Screen 1 at 15:30 total seats sold: 0
+KONG- SKULL ISLAND in Screen 1 at 18:30 total seats sold: 0
+KONG- SKULL ISLAND in Screen 1 at 21:00 total seats sold: 0
+LA LA LAND in Screen 2 at 10:30 total seats sold: 0
+LA LA LAND in Screen 2 at 13:00 total seats sold: 0
+MOONLIGHT in Screen 2 at 16:00 total seats sold: 0
+MOONLIGHT in Screen 2 at 18:00 total seats sold: 0
+KONG- SKULL ISLAND in Screen 2 at 20:00 total seats sold: 0
+BEAUTY AND THE BEAST in Screen 3 at 10:30 total seats sold: 0
+BEAUTY AND THE BEAST in Screen 3 at 13:00 total seats sold: 0
+LOGAN in Screen 3 at 15:30 total seats sold: 0
+LOGAN in Screen 3 at 18:00 total seats sold: 0
+KONG- SKULL ISLAND in Screen 3 at 20:30 total seats sold: 0
+
+Total sale of the day: 0.0
+Total ticket of the day: 0
+Child ticket of the day: 0
+Adult ticket of the day: 0
+Senior ticket of the day: 0
+student ticket of the day: 0
